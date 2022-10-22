@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ClinioMarcelino
-- 👀 I’m interested in logical problems.
-- 🌱 I’m currently learning C,Python, Html, Css.
-- 💞️ I’m looking to collaborate on all i can.
-- 📫 How to reach me cliniof@gmail
+<h1 float="center">👋 Hi, I’m @ClinioMarcelino</h1>
+
+<h2>🌱 I’m currently learning C, C#, C++, PHP, Python, Html, Css, MySql.</h2>
+
 
