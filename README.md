@@ -8,8 +8,8 @@
 <br>
 <h2>🖥️ My Stacks</h2>
 <div style="display: inline_block"><br>
-  <a href="https://www.oracle.com/br/java/" target="_blank"><img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></a>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+  <a href="https://www.oracle.com/br/java/" target="_blank" ><img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></a>
+  <a href="https://www.python.org/" target="_blank" ><img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
   <a href="https://isocpp.org/" target="_blank"> <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img align="center" alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
   <a href="https://www.rust-lang.org/" target="_blank"><img align="center" alt="Rust" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></a>
