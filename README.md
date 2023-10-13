@@ -1,28 +1,26 @@
 <div>
-  <h1>👋 Hi, I’m @ClinioMarcelino</h1>
+  <h2>👋 Hi, I’m @ClinioMarcelino</h2>
   <ul>
     <li>Currently I am an inter in Data Analyses</li>
     <li>Really passioned about what I do</li>
     <li>and my goal is to work with Embeeded Systems</li>
 </div>
 <br>
-<h1>🖥️ My Stacks</h1>
-<hr>
+<h2>🖥️ My Stacks</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />            
-  <img align="center" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />         
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Css" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <a href="https://www.oracle.com/br/java/"><img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></a>
+  <a href="https://www.python.org/"><img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+  <a href="https://isocpp.org/"> <img align="center" alt="C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
+  <a href="https://www.arduino.cc/"><img align="center" alt="Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
+  <a href="https://www.rust-lang.org/"><img align="center" alt="Rust" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /></a>
+  <a href="https://www.mysql.com/"><img align="center" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></a>
+  <a href="https://www.cprogramming.com/"><img align="center" alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+  <a href="https://www.javascript.com/"><img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>     
+  <a><img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+  <a><img align="center" alt="Css" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 </div>
 <br>
-<h1>📊 Profile Commit Resume </h1>
-<hr>
+<h2>📊 Profile Commit Resume </h2>
 <div align="center">
   <a href="https://github.com/ClinioMarcelino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClinioMarcelino&show_icons=true&theme=dracula&include_all_commits"/>
@@ -33,9 +31,8 @@
 </div>
 
 <br>
-<h1>📫 Contacts</h1>
-<hr>
+<h2>📫 Contacts</h2>
 <div>
-  <a href ="mailto:cliniof@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/cliniomarcelino/)https://www.linkedin.com/in/cliniomarcelino/" target="_blank"><img align="center" alt="Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  <a href ="mailto:cliniof@gmail.com">📧 Email </a>
+  <a href="https://www.linkedin.com/in/cliniomarcelino/)https://www.linkedin.com/in/cliniomarcelino/" target="_blank"><img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
