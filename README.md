@@ -3,7 +3,7 @@
   <ul>
     <li>Currently I am an inter in Data Analyses</li>
     <li>Really passioned about what I do</li>
-    <li>and my goal is to work with Embeeded Systems</li>
+    <li>My goal is to work with Embeeded Systems</li>
 </div>
 <br>
 <h2>🖥️ My Stacks</h2>
