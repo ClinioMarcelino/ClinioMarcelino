@@ -1,9 +1,9 @@
 <div>
   <h2>👋 Hi, I’m @ClinioMarcelino</h2>
   <ul>
-    <li>Currently work as Data Analyst</li>
+    <li>Currently work as Systems Analyst</li>
     <li>Really passioned about what I do</li>
-    <li>My goal is to work with Embeeded Systems</li>
+    <li>My goal is to work with Rust/Embeeded Systems</li>
 </div>
 <br>
 <h2>🖥️ My Stacks</h2>
