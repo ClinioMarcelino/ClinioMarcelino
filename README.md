@@ -26,19 +26,11 @@
 
 <h2>📊 GitHub Activity</h2>
 
-<!-- <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cliniomarcelino&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliniomarcelino&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div> -->
-
-
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=cliniomarcelino&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/cliniomarcelino/cliniomarcelino/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cliniomarcelino/cliniomarcelino/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
